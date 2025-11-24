@@ -1,0 +1,10 @@
+# Streamlit gizli anahtar dosyası (GÜVENLİK İÇİN GİTMEMELİ)
+.streamlit/secrets.toml
+
+# Gereksiz Python dosyaları
+__pycache__/
+*.pyc
+
+# Sanal ortam klasörü (Varsa)
+venv/
+.env
